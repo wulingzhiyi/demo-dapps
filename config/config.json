@@ -1,8 +1,8 @@
 {
   "proofsEnabled": false,
   "deploy": {
-    "optimism": "XBallotUC",
-    "base": "XProofOfVoteNFTUC"
+    "optimism": "PolymerToken",
+    "base": "PolymerToken"
   },
   "isUniversal": true,
   "createChannel": {
@@ -28,12 +28,12 @@
   },
   "sendUniversalPacket": {
     "optimism": {
-      "portAddr": "0x80FA9cB428b3873df748628Ca992194451473159",
+      "portAddr": "0x844a848Ed12be1D39518d6706d66Bed24c9d52cA",
       "channelId": "channel-10",
       "timeout": 36000
     },
     "base": {
-      "portAddr": "0x4EF4C3C0Fe45a24b531e36C53e1AbF962eDBCFEb",
+      "portAddr": "0x844a848Ed12be1D39518d6706d66Bed24c9d52cA",
       "channelId": "channel-11",
       "timeout": 36000
     }
