@@ -4,3 +4,6 @@
 [submodule "lib/forge-std"]
 	path = lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "ploymer-frontend-page"]
+	path = ploymer-frontend-page
+	url = https://github.com/wulingzhiyi/ploymer-frontend-page.git
